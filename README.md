@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 # Bruno Pincas
 
-Hey there! I'm Bruno Pincas, a 22-year-old software developer based in Madrid. My passion lies in crafting robust solutions using Java Spring Boot for microservices. My current focus is in the realm of Enterprise Resource Planning (ERP) systems, where I'm actively involved in crafting efficient solutions for business management.
+Hey there! I'm Bruno Pincas, a 22-year-old software developer based in Madrid. My passion lies in designing and implementating solutions using Java Spring Boot for microservices architecture. My current focus is in the realm of Enterprise Resource Planning (ERP) systems, where I'm actively involved in crafting efficient solutions for business management.
 
 On the other hand, I'm working at [Maat]([https://www.linkedin.com/in/brunopincas/](https://github.com/Maat-Together)), a platform designed to connect companies and organizations for various purposes. Engaged in a collaborative effort with a dedicated team, we have been honored with an entrepreneurship award for our work on this innovative project. 🚀
 
-In addition to my backend expertise, I also have knowledge in front-end technologies such as React and Vue.js. This repository serves as my personal space to store and showcase projects as I continue my learning journey.
+This repository serves as my personal space to store and showcase projects as I continue my learning journey.
 
 ## Technologies and Focus Areas
 
