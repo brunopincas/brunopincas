@@ -27,13 +27,7 @@ This repository serves as my personal space to store and showcase projects as I 
 - **Docker:** Proficient in containerization for seamless deployment of microservices, databases and other services.
 - **Kafka:** Experience in implementing event-driven architectures.
 - **SQL:** Skilled in working with relational databases (MySQL, postgreSQL).
-- **Spring Cloud:** Knowledge of building cloud-native applications Efficient working with:
-        - Config server
-        - Eureka server
-        - Gateway
-        - Sleuth
-        - Zipkin
-        - Feign Client
+- **Spring Cloud:** Knowledge of building cloud-native applications (Config server, eureka server, gateway server, sleuth, zipkin, feign client).
 
 ## Front-end Skills
 
