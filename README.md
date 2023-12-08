@@ -36,4 +36,4 @@ This repository serves as my personal space to store and showcase projects as I 
 
 Feel free to explore my projects, and I'm always open to collaboration and learning new things! 🚀
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/brunopincas/) to stay in the loop on my latest endeavors. 🌐👨‍💻
+Connect with me on [LinkedIn](https://www.linkedin.com/in/bruno-pincas-roura/) to stay in the loop on my latest endeavors. 🌐👨‍💻
